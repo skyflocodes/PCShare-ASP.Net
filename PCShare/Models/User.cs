@@ -13,8 +13,10 @@ namespace PCShare.Models
         [Required]
         public String Username { get; set; }
 
+        //will update with proper email type in the future when we cover functionality in class
         public String Email { get; set; }
 
+        //will update with proper password type in the future when we cover functionality in class
         public String Password { get; set; }
 
         //child object refrence
