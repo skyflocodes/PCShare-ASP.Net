@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nmOUeCv1W+WqM874sUexSM2N3WEOyYVXo5LRz9wF0Gz/GRS5vJIsBYx+sgwPK/O4tUqC0Tenvyp7qQxXp7+02w==",
+  "dgSpecHash": "iNDHq1qfOfNWSiytYcigFXpLZbjYoXU1ssf2ffe38gbmmXU0PvJIzLdid0Xjm7iA/U/8//NpxsDuYlFiwDSkLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\skylo\\source\\repos\\PCShare\\PCShare\\PCShare.csproj",
+  "projectFilePath": "C:\\Users\\skylo\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\skylo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
     "C:\\Users\\skylo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.8\\microsoft.aspnetcore.cryptography.keyderivation.3.1.8.nupkg.sha512",

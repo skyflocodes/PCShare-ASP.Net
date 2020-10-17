@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skylo\\source\\repos\\PCShare\\PCShare\\PCShare.csproj": {}
+    "C:\\Users\\skylo\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skylo\\source\\repos\\PCShare\\PCShare\\PCShare.csproj": {
+    "C:\\Users\\skylo\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skylo\\source\\repos\\PCShare\\PCShare\\PCShare.csproj",
+        "projectUniqueName": "C:\\Users\\skylo\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj",
         "projectName": "PCShare",
-        "projectPath": "C:\\Users\\skylo\\source\\repos\\PCShare\\PCShare\\PCShare.csproj",
+        "projectPath": "C:\\Users\\skylo\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj",
         "packagesPath": "C:\\Users\\skylo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skylo\\source\\repos\\PCShare\\PCShare\\obj\\",
+        "outputPath": "C:\\Users\\skylo\\Documents\\GitHub\\ASPFinalProject\\PCShare\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
