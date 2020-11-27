@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\skylo\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\skylo\\.nuget\\packages",
+      "C:\\Users\\Skyler\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Skyler\\.nuget\\packages",
       "C:\\Microsoft\\Xamarin\\NuGet"
     ]
   }

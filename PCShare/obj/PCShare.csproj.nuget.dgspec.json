@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skylo\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj": {}
+    "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skylo\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj": {
+    "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skylo\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj",
+        "projectUniqueName": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj",
         "projectName": "PCShare",
-        "projectPath": "C:\\Users\\skylo\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj",
-        "packagesPath": "C:\\Users\\skylo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skylo\\Documents\\GitHub\\ASPFinalProject\\PCShare\\obj\\",
+        "projectPath": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj",
+        "packagesPath": "C:\\Users\\Skyler\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\skylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Skyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
@@ -91,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
