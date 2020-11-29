@@ -23,7 +23,7 @@ namespace PCShare.Controllers
         public async Task<IActionResult> Index()
         {
             var applicationDbContext = _context.Pcs.Include(p => p.User);
-            return View(await applicationDbContext.ToListAsync());
+            return View("Index", await applicationDbContext.ToListAsync());
         }
 
         // GET: PCs/Details/5

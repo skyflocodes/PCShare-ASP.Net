@@ -6,7 +6,7 @@ using PCShare.Controllers;
 namespace PCShare_Test
 {
     [TestClass]
-    public class UnitTest
+    public class HomeControllerTest
     {
          
         [TestMethod]
