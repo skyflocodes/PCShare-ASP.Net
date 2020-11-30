@@ -210,17 +210,7 @@ namespace PCShare_Test
 
             Assert.AreEqual("Edit", viewResult.ViewName);
         }
-        /*
-        [TestMethod]
-        public void EditLoadsModel()
-        {
-            var result = controller.Edit(90);
-            var viewResult = (ViewResult)result.Result;
-            PC model = (PC)viewResult.Model;
 
-            Assert.AreEqual(_context.PC.Find(90), model);
-        }
-        */
         [TestMethod]
         public void EditLoadsViewData()
         {
