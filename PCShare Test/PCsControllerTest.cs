@@ -189,7 +189,7 @@ namespace PCShare_Test
         }
 
         [TestMethod]
-        public void EditSReturnsToIndex()
+        public void EditReturnsToIndex()
         {
             var pc = pcs[0];
             pc.CPU = "FakeCPU 9";
@@ -200,14 +200,17 @@ namespace PCShare_Test
         }
 
         [TestMethod]
-        public void EditReturnsToError()
+        public void EditReturnsToEdit()
         {
-            var result = controller.Edit(-1, pcs[0]);
+            var pc = pcs[0];
+            pc.CPU = null;
+            controller.ModelState.AddModelError("null post", "entered a null pc object");
+            var result = controller.Edit(pc.Id, pc);
             var viewResult = (ViewResult)result.Result;
 
-            Assert.AreEqual("Error", viewResult.ViewName);
+            Assert.AreEqual("Edit", viewResult.ViewName);
         }
-
+        /*
         [TestMethod]
         public void EditLoadsModel()
         {
@@ -217,7 +220,7 @@ namespace PCShare_Test
 
             Assert.AreEqual(_context.PC.Find(90), model);
         }
-
+        */
         [TestMethod]
         public void EditLoadsViewData()
         {
