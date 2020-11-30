@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare Test\\PCShare Test.csproj": {}
+    "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare Test\\PCShare Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare Test\\PCShare Test.csproj": {
+    "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare Test\\PCShare Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare Test\\PCShare Test.csproj",
+        "projectUniqueName": "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare Test\\PCShare Test.csproj",
         "projectName": "PCShare Test",
-        "projectPath": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare Test\\PCShare Test.csproj",
-        "packagesPath": "C:\\Users\\Skyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare Test\\obj\\",
+        "projectPath": "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare Test\\PCShare Test.csproj",
+        "packagesPath": "C:\\Users\\skylo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Skyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\skylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj": {
-                "projectPath": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj"
+              "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare\\PCShare.csproj": {
+                "projectPath": "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare\\PCShare.csproj"
               }
             }
           }
@@ -91,20 +91,20 @@
         }
       }
     },
-    "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj": {
+    "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare\\PCShare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj",
+        "projectUniqueName": "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare\\PCShare.csproj",
         "projectName": "PCShare",
-        "projectPath": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj",
-        "packagesPath": "C:\\Users\\Skyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\obj\\",
+        "projectPath": "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare\\PCShare.csproj",
+        "packagesPath": "C:\\Users\\skylo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Skyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\skylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

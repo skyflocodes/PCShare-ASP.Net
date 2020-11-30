@@ -10,7 +10,7 @@ namespace PCShare.Data
     public class ApplicationDbContext : IdentityDbContext
     {
         public DbSet<User> SiteUsers { get; set; }
-        public DbSet<PC> Pcs { get; set; }
+        public DbSet<PC> PC { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

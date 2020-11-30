@@ -9188,23 +9188,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Skyler\\.nuget\\packages\\": {},
+    "C:\\Users\\skylo\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj",
+      "projectUniqueName": "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare\\PCShare.csproj",
       "projectName": "PCShare",
-      "projectPath": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\PCShare.csproj",
-      "packagesPath": "C:\\Users\\Skyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Skyler\\Documents\\GitHub\\ASPFinalProject\\PCShare\\obj\\",
+      "projectPath": "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare\\PCShare.csproj",
+      "packagesPath": "C:\\Users\\skylo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\skylo\\IdeaProjects\\New folder\\ASPFinalProject\\PCShare\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Skyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\skylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
