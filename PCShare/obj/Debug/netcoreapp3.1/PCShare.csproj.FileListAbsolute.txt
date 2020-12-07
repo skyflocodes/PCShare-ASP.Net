@@ -674,4 +674,7 @@ C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcore
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.dll
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.pdb
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.genruntimeconfig.cache
-C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\scopedcss\bundle\PCShare.styles.css
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\PCShare20201108142902 - Web Deploy\profile.arm.json
