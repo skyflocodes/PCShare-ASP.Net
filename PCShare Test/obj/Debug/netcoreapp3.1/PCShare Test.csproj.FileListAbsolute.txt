@@ -487,3 +487,7 @@ C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare Test\bin\Debug\ne
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare Test\obj\Debug\netcoreapp3.1\PCShare Test.csproj.CopyComplete
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare Test\obj\Debug\netcoreapp3.1\PCShare Test.genruntimeconfig.cache
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare Test\bin\Debug\netcoreapp3.1\PCShare.StaticWebAssets.xml
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare Test\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare Test\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare Test\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\PCShare20201108142902 - Web Deploy\profile.arm.json
