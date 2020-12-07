@@ -639,9 +639,6 @@ C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcore
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.csprojAssemblyReference.cache
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.AssemblyInfoInputs.cache
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.AssemblyInfo.cs
-C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.csproj.CoreCompileInputs.cache
-C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.RazorAssemblyInfo.cache
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.RazorAssemblyInfo.cs
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.TagHelpers.input.cache
@@ -678,3 +675,10 @@ C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcore
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\PCShare20201108142902 - Web Deploy\profile.arm.json
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.csproj.CoreCompileInputs.cache
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Debug\netcoreapp3.1\PCShare.MvcApplicationPartsAssemblyInfo.cache

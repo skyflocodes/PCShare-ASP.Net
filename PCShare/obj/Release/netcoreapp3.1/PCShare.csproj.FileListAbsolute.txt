@@ -195,3 +195,7 @@ C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Release\netco
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Release\netcoreapp3.1\PCShare.dll
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Release\netcoreapp3.1\PCShare.pdb
 C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\obj\Release\netcoreapp3.1\PCShare.genruntimeconfig.cache
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\skylo\IdeaProjects\New folder\ASPFinalProject\PCShare\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
